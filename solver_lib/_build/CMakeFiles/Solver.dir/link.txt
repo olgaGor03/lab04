@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Solver.dir/home/olga/olgaGor03/workspace/projects/lab03/lab03/solver_application/equation.cpp.o -o Solver  libsolver.a 
